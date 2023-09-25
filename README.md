@@ -21,15 +21,17 @@ Bitcoin, the most popular cryptocurrency, has witnessed significant price volati
 # Getting Started
 
 1. Clone the Repository: Clone this repository to your local machine using the following command:
+
    git clone https://github.com/Deepak-Parappagoudar/Bitcoin-Price-Prediction-using-Rolling-ARIMA.git
 
-2. Install Dependencies: Make sure you have the required dependencies installed. You can install them using the provided requirements.txt file:
+3. Install Dependencies: Make sure you have the required dependencies installed. You can install them using the provided requirements.txt file:
+
    pip install -r requirements.txt
 
-3. Explore the Notebooks: Open the Jupyter notebooks in the notebooks/ directory and follow the step-by-step instructions for data preprocessing, 
+5. Explore the Notebooks: Open the Jupyter notebooks in the notebooks/ directory and follow the step-by-step instructions for data preprocessing, 
    model training, and evaluation.
 
-4. Feel free to modify the code and experiment with different hyperparameters, feature engineering techniques, or alternative models to improve 
+6. Feel free to modify the code and experiment with different hyperparameters, feature engineering techniques, or alternative models to improve 
    prediction accuracy.
 
 # Disclaimer
